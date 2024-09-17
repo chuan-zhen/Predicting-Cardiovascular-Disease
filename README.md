@@ -1,7 +1,7 @@
 # IE0005-Predicting-Cardiovascular-Disease
 
 ## Introduction
-IE0005 is an introductory module to Data Science and Artificial Intelligence. This final project concludes the module and aims to predict the risk of cardiovascular diseases through patients' lifestyle habits. The data set is obtained from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset).
+IE0005 is an introductory module to Data Science and Artificial Intelligence. This final project concludes the module and aims to predict the risk of cardiovascular diseases through patients' lifestyle habits. The data set is obtained from [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset). This project is done with the help of 2 other groupmates.
 
 ## Methodology
 1. Data Cleaning
